@@ -1,0 +1,1 @@
+An implementation of the NVIDIA screen space fluid rendering paper.  I used this paper http://developer.download.nvidia.com/presentations/2010/gdc/Direct3D_Effects.pdf and a customized FLUIDS v1 http://www.rchoetzlein.com/eng/graphics/fluids.htm to do this project.
